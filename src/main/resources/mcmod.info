@@ -1,0 +1,18 @@
+[
+{
+  "modid": "RedInflux",
+  "name": "Redstone Influx",
+  "description": "Generate RF with awesome machines!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CsokiCraft"],
+  "credits": "TeamCoFH for RF API",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "requiredMods": ["Forge", "CsokiCraftUtil", "CoFHAPI"],
+  useDependencyInformation: true
+}
+]

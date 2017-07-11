@@ -1,0 +1,12 @@
+#Redstone Influx language file
+item.itemInfluxDust.0.name=Beryllium lump
+item.itemInfluxDust.1.name=Aluminium dust
+item.itemInfluxDust.2.name=Tiny pile of Chromium
+item.itemInfluxDust.3.name=Aluminium ingot
+item.itemInfluxDust.4.name=Neutron shielding
+
+tile.blockBeReact.name=Beryllium reactor
+tile.blockChemDec.name=Chemical Deconstructor
+tile.blockDynHeat.name=Heat anomaly dynamo
+
+itemGroup.RedInflux=Redstone Influx
